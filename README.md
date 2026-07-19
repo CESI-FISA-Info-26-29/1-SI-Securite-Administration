@@ -6,11 +6,14 @@ FISA Informatique 26/29, CESI Montpellier.
 |:--|:--|
 | Periode | 16/11/2026 au 18/12/2026 |
 | Moodle | [Bloc Moodle](https://moodle.cesi.fr/course/view.php?id=6276) |
-| Soutenance | (date a confirmer) |
+| Soutenance | 18/12/2026 (30 min par groupe) |
+| Porteur du bloc | Aurelien Lefebvre |
 
 ## Le projet en bref
 
-(A completer : contexte, ce qui est construit, taille des equipes.)
+Comprendre, administrer et securiser un systeme d'information moderne. Projet fil rouge : securisation et deploiement d'une architecture informatique, en groupes de 4 (5 maximum). Huit boucles PBL jalonnent le bloc : le S.I. et le reseau (Packet Tracer), Active Directory et GPO, NTFS et DFS, NAS et sauvegarde, securite IT et pare-feu, Docker et supervision, PowerShell et scripting, VPN et PKI.
+
+Environnement : Windows Server et Workstation, PowerShell, Linux, Apache, Docker, pfSense, OpenSSL, VirtualBox, Packet Tracer.
 
 ## Ressources disponibles
 
@@ -28,9 +31,13 @@ Contenus repris de la promotion 24/27 (a adapter si besoin) :
 
 ## Livrables et echeances
 
-| Livrable | Format | Echeance | Ou rendre |
-|:--|:--|:--|:--|
-| (a completer) | | | |
+| Livrable | Echeance |
+|:--|:--|
+| Livrable 1 : Architecture et administration du S.I. (check) | 25/11/2026 |
+| Livrable 2 : Securite et exploitation du S.I. (check) | 07/12/2026 |
+| Livrable 3 : Maquette finale et soutenance | 18/12/2026 |
+
+Avant le bloc : telecharger les ISO listes dans la sequence de preparation (sources Windows via Azure Education) et disposer d'un acces Cisco Packet Tracer.
 
 ## Groupes
 
