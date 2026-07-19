@@ -12,6 +12,20 @@ FISA Informatique 26/29, CESI Montpellier.
 
 (A completer : contexte, ce qui est construit, taille des equipes.)
 
+## Ressources disponibles
+
+Contenus repris de la promotion 24/27 (a adapter si besoin) :
+
+| Emplacement | Contenu |
+|:--|:--|
+| `ressources/plan-du-cours.md` | Plan du cours : boucles PBL et acquis d'apprentissage |
+| `ressources/preparation.md` | Preparation de l'environnement (hyperviseur, VM, prerequis CCNA1) |
+| `ressources/prosits/` | Prosits 1 a 7 |
+| `ressources/tutoriel-powershell.md` | Tutoriel PowerShell |
+| `sujet/projet-assurancesplus.md` | Sujet du projet (edition 2024/2025) |
+| `sujet/mini-projet-infrastructure-securisee.md` | Sujet du mini-projet (edition 2024/2025) |
+| `evaluation/grille-mini-projet.md` | Grille d'evaluation du mini-projet (edition 2024/2025) |
+
 ## Livrables et echeances
 
 | Livrable | Format | Echeance | Ou rendre |
